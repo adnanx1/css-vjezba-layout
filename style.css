@@ -1,0 +1,27 @@
+.tbl-1,td{
+    border: 1px solid #cccccc;
+    border-collapse: collapse;
+    padding: 4px;
+    background-color: #f5f4f2;
+    
+    }
+th{
+    background-color: #ece7d7;
+}
+body{
+    background-color: #89d6d9;
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+.milos-c{
+    background-color: #ffffff;
+    margin: auto;
+    width: 960px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.slika{
+    background-color: #dddddd;
+    padding: 10px;
+    margin-top: 20px;
+}
