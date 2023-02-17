@@ -16,6 +16,8 @@ body{
 .milos-c{
     background-color: #ffffff;
     margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
     width: 960px;
     padding: 20px;
     box-sizing: border-box;
